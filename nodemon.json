@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "test",
+        "MONGO_PASS": "pass123",
+        "MONGO_NAME": "nativeBlog"
+    }
+}
